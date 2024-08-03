@@ -1,6 +1,4 @@
-.one,
-.three,
-.five {
+.odd {
     background-color: #ffcccb;
     font-family: 'Verdana', 'DejaVu Sans', 'san-serif';
 }
@@ -10,7 +8,7 @@
     font-size: 36px;
 }
 
-.three {
+.odd.font {
     font-size: 24px;
 }
 
